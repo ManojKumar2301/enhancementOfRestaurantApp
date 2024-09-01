@@ -1,5 +1,5 @@
 import './index.css'
-//  import {AiFillCloseCircle} from 'react-icons/ai'
+
 
 import CartContext from '../../context/CartContext'
 
